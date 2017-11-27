@@ -1,12 +1,12 @@
 # Machine-learning-nanodegree-capstone
 The capstone project for Udacity Machine learning nanodegree.
 
-# Environment
-i. OS: Windows 10
-ii. Python : 3.5.4
-iii. Anaconda 64 bit v4.3 distribution.
+## Environment
+1. OS: Windows 10
+2. Python : 3.5.4
+3. Anaconda 64 bit v4.3 distribution.
 
-# Python packages:
+## Python packages:
 1. Numpy
 2. Pandas
 3. matplotlib
@@ -16,3 +16,7 @@ iii. Anaconda 64 bit v4.3 distribution.
 7. graphviz
 8. sklearn
 9. pylab
+
+### Dataset from kaggle competition
+https://www.kaggle.com/c/statoil-iceberg-classifier-challenge
+
