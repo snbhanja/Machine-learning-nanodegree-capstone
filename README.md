@@ -1,5 +1,6 @@
 # Machine-learning-nanodegree-capstone
 The capstone project for Udacity Machine learning nanodegree.
+problem: Classify iceberg or ship.
 
 ## Environment
 1. OS: Windows 10
