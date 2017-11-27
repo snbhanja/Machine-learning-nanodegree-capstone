@@ -2,11 +2,17 @@
 The capstone project for Udacity Machine learning nanodegree.
 
 # Environment
-OS: Windows 10
-Python : 3.5.4
-Anaconda 64 bit v4.3 distribution.
+i. OS: Windows 10
+ii. Python : 3.5.4
+iii. Anaconda 64 bit v4.3 distribution.
 
-Python packages:
+# Python packages:
 1. Numpy
 2. Pandas
-3. Sci
+3. matplotlib
+4. seaborn
+5. keras
+6. pydot
+7. graphviz
+8. sklearn
+9. pylab
